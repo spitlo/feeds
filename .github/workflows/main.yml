@@ -9,7 +9,7 @@ on:
       - 'base.html'
 
   schedule:
-  - cron: '15 */2 * * *'
+  - cron: '15 */12 * * *'
 
 
   # Allows you to run this workflow manually from the Actions tab
